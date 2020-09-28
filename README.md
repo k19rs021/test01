@@ -23,7 +23,7 @@ Making *Unordered* list is very easy.
 
 ## Section 4
 
-You can jump to [Github](https://github.com)easily.
+You can jump to [Github](https://github.com) easily.
 
 ## Section 5
 
